@@ -4,6 +4,9 @@ The JSA/VSA Collaboration for Edge-Lit LED Acrylic Signs
 ## About
 This project was created by Jake Uyechi and Khoa Van (c/o 2023) as a gift for the Japanese Student Association and the Vietnamese Student Associations at the University of Portland.
 
+## Example
+![JSAExampleProduct](https://github.com/uyechi23/AcrylicLights/assets/74630267/0545f173-7fd4-4a14-8046-7d4854d22b11)
+
 ## Components
 The components for each of the parts in this project are included in separate folders.
 
